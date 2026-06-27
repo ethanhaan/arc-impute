@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77.0.3", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arc-impute"
+version = "0.1.0"
+description = "ARC-Impute: anchored, reference-aware, and consistency-regularised spatial imputation"
+readme = "README.md"
+license = "BSD-3-Clause"
+license-files = ["LICENSE", "NOTICE"]
+requires-python = ">=3.10"
+dependencies = [
+  "anndata",
+  "numpy",
+  "pandas",
+  "scipy",
+  "torch",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["arc_impute", "arc_impute.*"]

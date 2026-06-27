@@ -1,0 +1,6 @@
+ARC-Impute
+
+ARC-Impute follows a mapping-based spatial imputation formulation inspired by
+Tangram, which is distributed under the BSD 3-Clause license.
+
+This package does not import or call Tangram at runtime.
