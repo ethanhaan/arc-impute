@@ -1,0 +1,460 @@
+platform_group,dataset,model,metric,score,rank,relative_rank,model_count
+spot_based,Breast Visium CID44971,novosparc,pearson,0.1882555210946291,6.0,0.4444444444444444,9
+spot_based,Breast Visium CID44971,novosparc,css,0.5039279969848296,6.0,0.4444444444444444,9
+spot_based,Breast Visium CID44971,novosparc,ssim,0.1464811489123382,5.0,0.5555555555555556,9
+spot_based,Breast Visium CID44971,tangram,pearson,0.22149972663024373,4.0,0.6666666666666666,9
+spot_based,Breast Visium CID44971,tangram,css,0.5602622714739734,3.0,0.7777777777777778,9
+spot_based,Breast Visium CID44971,tangram,ssim,0.149986294163391,4.0,0.6666666666666666,9
+spot_based,Breast Visium CID44971,spage,pearson,0.2264254588409462,3.0,0.7777777777777778,9
+spot_based,Breast Visium CID44971,spage,css,0.49406668946817833,7.0,0.3333333333333333,9
+spot_based,Breast Visium CID44971,spage,ssim,0.19098072404681185,1.0,1.0,9
+spot_based,Breast Visium CID44971,spaim,pearson,0.2345396207727074,2.0,0.8888888888888888,9
+spot_based,Breast Visium CID44971,spaim,css,0.5695925530387184,2.0,0.8888888888888888,9
+spot_based,Breast Visium CID44971,spaim,ssim,0.12383594434209153,9.0,0.1111111111111111,9
+spot_based,Breast Visium CID44971,stimpute,pearson,0.16422244903710445,7.0,0.3333333333333333,9
+spot_based,Breast Visium CID44971,stimpute,css,0.5115878322810944,5.0,0.5555555555555556,9
+spot_based,Breast Visium CID44971,stimpute,ssim,0.13461955290063865,8.0,0.2222222222222222,9
+spot_based,Breast Visium CID44971,cytospace,pearson,0.14094030337705896,9.0,0.1111111111111111,9
+spot_based,Breast Visium CID44971,cytospace,css,0.4052784122884723,9.0,0.1111111111111111,9
+spot_based,Breast Visium CID44971,cytospace,ssim,0.14119614291404614,6.0,0.4444444444444444,9
+spot_based,Breast Visium CID44971,seurat,pearson,0.21698097086124,5.0,0.5555555555555556,9
+spot_based,Breast Visium CID44971,seurat,css,0.5194768812157234,4.0,0.6666666666666666,9
+spot_based,Breast Visium CID44971,seurat,ssim,0.1863002285613116,2.0,0.8888888888888888,9
+spot_based,Breast Visium CID44971,liger,pearson,0.15741494725364522,8.0,0.2222222222222222,9
+spot_based,Breast Visium CID44971,liger,css,0.45259723036597344,8.0,0.2222222222222222,9
+spot_based,Breast Visium CID44971,liger,ssim,0.13762665853147016,7.0,0.3333333333333333,9
+spot_based,Breast Visium CID44971,arcimpute,pearson,0.2720444198768216,1.0,1.0,9
+spot_based,Breast Visium CID44971,arcimpute,css,0.5804853114965609,1.0,1.0,9
+spot_based,Breast Visium CID44971,arcimpute,ssim,0.17040578222932232,3.0,0.7777777777777778,9
+spot_based,Mouse Cortex Visium,novosparc,pearson,0.1445931256895578,7.0,0.3333333333333333,9
+spot_based,Mouse Cortex Visium,novosparc,css,0.6109756951958284,6.0,0.4444444444444444,9
+spot_based,Mouse Cortex Visium,novosparc,ssim,0.11775691619026007,7.0,0.3333333333333333,9
+spot_based,Mouse Cortex Visium,tangram,pearson,0.2166198506288692,2.0,0.8888888888888888,9
+spot_based,Mouse Cortex Visium,tangram,css,0.6920198472893339,2.0,0.8888888888888888,9
+spot_based,Mouse Cortex Visium,tangram,ssim,0.15502971476413344,3.0,0.7777777777777778,9
+spot_based,Mouse Cortex Visium,spage,pearson,0.2099158121213375,3.0,0.7777777777777778,9
+spot_based,Mouse Cortex Visium,spage,css,0.5945954334367564,8.0,0.2222222222222222,9
+spot_based,Mouse Cortex Visium,spage,ssim,0.1819727432025252,1.0,1.0,9
+spot_based,Mouse Cortex Visium,spaim,pearson,0.15994715107842739,5.0,0.5555555555555556,9
+spot_based,Mouse Cortex Visium,spaim,css,0.6907609712637885,3.0,0.7777777777777778,9
+spot_based,Mouse Cortex Visium,spaim,ssim,0.09747091030977682,8.0,0.2222222222222222,9
+spot_based,Mouse Cortex Visium,stimpute,pearson,0.0751983266583126,9.0,0.1111111111111111,9
+spot_based,Mouse Cortex Visium,stimpute,css,0.6239097411830802,5.0,0.5555555555555556,9
+spot_based,Mouse Cortex Visium,stimpute,ssim,0.07245244829414958,9.0,0.1111111111111111,9
+spot_based,Mouse Cortex Visium,cytospace,pearson,0.13223253591077946,8.0,0.2222222222222222,9
+spot_based,Mouse Cortex Visium,cytospace,css,0.5329390191721365,9.0,0.1111111111111111,9
+spot_based,Mouse Cortex Visium,cytospace,ssim,0.11791131148544154,6.0,0.4444444444444444,9
+spot_based,Mouse Cortex Visium,seurat,pearson,0.17235381265927976,4.0,0.6666666666666666,9
+spot_based,Mouse Cortex Visium,seurat,css,0.6317209974445089,4.0,0.6666666666666666,9
+spot_based,Mouse Cortex Visium,seurat,ssim,0.14978197466142157,4.0,0.6666666666666666,9
+spot_based,Mouse Cortex Visium,liger,pearson,0.156630456512697,6.0,0.4444444444444444,9
+spot_based,Mouse Cortex Visium,liger,css,0.5989178702197767,7.0,0.3333333333333333,9
+spot_based,Mouse Cortex Visium,liger,ssim,0.13630230419428416,5.0,0.5555555555555556,9
+spot_based,Mouse Cortex Visium,arcimpute,pearson,0.2514030284178049,1.0,1.0,9
+spot_based,Mouse Cortex Visium,arcimpute,css,0.701144991889135,1.0,1.0,9
+spot_based,Mouse Cortex Visium,arcimpute,ssim,0.15859800204598654,2.0,0.8888888888888888,9
+spot_based,PDAC-A ST1,novosparc,pearson,0.1149329803888593,7.0,0.3333333333333333,9
+spot_based,PDAC-A ST1,novosparc,css,0.31359323327709016,7.0,0.3333333333333333,9
+spot_based,PDAC-A ST1,novosparc,ssim,0.06228008826414051,8.0,0.2222222222222222,9
+spot_based,PDAC-A ST1,tangram,pearson,0.1884760673752494,3.0,0.7777777777777778,9
+spot_based,PDAC-A ST1,tangram,css,0.37044557875830875,3.0,0.7777777777777778,9
+spot_based,PDAC-A ST1,tangram,ssim,0.09936548980416827,2.0,0.8888888888888888,9
+spot_based,PDAC-A ST1,spage,pearson,0.16658734906055095,4.0,0.6666666666666666,9
+spot_based,PDAC-A ST1,spage,css,0.34013525307665904,6.0,0.4444444444444444,9
+spot_based,PDAC-A ST1,spage,ssim,0.0983717116774574,4.0,0.6666666666666666,9
+spot_based,PDAC-A ST1,spaim,pearson,0.21060324797124888,2.0,0.8888888888888888,9
+spot_based,PDAC-A ST1,spaim,css,0.3870881064961524,2.0,0.8888888888888888,9
+spot_based,PDAC-A ST1,spaim,ssim,0.09761375345955667,5.0,0.5555555555555556,9
+spot_based,PDAC-A ST1,stimpute,pearson,0.14216493249349968,5.0,0.5555555555555556,9
+spot_based,PDAC-A ST1,stimpute,css,0.34212613491132854,5.0,0.5555555555555556,9
+spot_based,PDAC-A ST1,stimpute,ssim,0.08718725075204013,7.0,0.3333333333333333,9
+spot_based,PDAC-A ST1,cytospace,pearson,0.11264455622987866,8.0,0.2222222222222222,9
+spot_based,PDAC-A ST1,cytospace,css,0.22783084764698197,9.0,0.1111111111111111,9
+spot_based,PDAC-A ST1,cytospace,ssim,0.0992051086791382,3.0,0.7777777777777778,9
+spot_based,PDAC-A ST1,seurat,pearson,0.13113918991384121,6.0,0.4444444444444444,9
+spot_based,PDAC-A ST1,seurat,css,0.34696312098979415,4.0,0.6666666666666666,9
+spot_based,PDAC-A ST1,seurat,ssim,0.09009582731392533,6.0,0.4444444444444444,9
+spot_based,PDAC-A ST1,liger,pearson,0.05440047359637027,9.0,0.1111111111111111,9
+spot_based,PDAC-A ST1,liger,css,0.2979044632555278,8.0,0.2222222222222222,9
+spot_based,PDAC-A ST1,liger,ssim,0.03776533608412812,9.0,0.1111111111111111,9
+spot_based,PDAC-A ST1,arcimpute,pearson,0.2286846746308424,1.0,1.0,9
+spot_based,PDAC-A ST1,arcimpute,css,0.3922661626219031,1.0,1.0,9
+spot_based,PDAC-A ST1,arcimpute,ssim,0.11568574147940257,1.0,1.0,9
+spot_based,HER2ST B1,novosparc,pearson,0.1421708522494492,6.0,0.4444444444444444,9
+spot_based,HER2ST B1,novosparc,css,0.40405402539019464,6.0,0.4444444444444444,9
+spot_based,HER2ST B1,novosparc,ssim,0.10073422117775442,5.0,0.5555555555555556,9
+spot_based,HER2ST B1,tangram,pearson,0.2455332532847473,3.0,0.7777777777777778,9
+spot_based,HER2ST B1,tangram,css,0.4724377694561054,3.0,0.7777777777777778,9
+spot_based,HER2ST B1,tangram,ssim,0.14580121345436806,2.0,0.8888888888888888,9
+spot_based,HER2ST B1,spage,pearson,0.16034226765252957,4.0,0.6666666666666666,9
+spot_based,HER2ST B1,spage,css,0.374180344793455,7.0,0.3333333333333333,9
+spot_based,HER2ST B1,spage,ssim,0.12123600152633415,4.0,0.6666666666666666,9
+spot_based,HER2ST B1,spaim,pearson,0.2582642089913271,2.0,0.8888888888888888,9
+spot_based,HER2ST B1,spaim,css,0.4802435904158322,2.0,0.8888888888888888,9
+spot_based,HER2ST B1,spaim,ssim,0.1365816092636047,3.0,0.7777777777777778,9
+spot_based,HER2ST B1,stimpute,pearson,0.14939004425422286,5.0,0.5555555555555556,9
+spot_based,HER2ST B1,stimpute,css,0.4224357497911769,4.0,0.6666666666666666,9
+spot_based,HER2ST B1,stimpute,ssim,0.1003118049221037,6.0,0.4444444444444444,9
+spot_based,HER2ST B1,cytospace,pearson,0.11281919312784874,7.0,0.3333333333333333,9
+spot_based,HER2ST B1,cytospace,css,0.30051868464562254,9.0,0.1111111111111111,9
+spot_based,HER2ST B1,cytospace,ssim,0.0967763054919656,7.0,0.3333333333333333,9
+spot_based,HER2ST B1,seurat,pearson,0.09973866477005038,8.0,0.2222222222222222,9
+spot_based,HER2ST B1,seurat,css,0.40574286846037494,5.0,0.5555555555555556,9
+spot_based,HER2ST B1,seurat,ssim,0.06749821094715056,8.0,0.2222222222222222,9
+spot_based,HER2ST B1,liger,pearson,0.03926233636408709,9.0,0.1111111111111111,9
+spot_based,HER2ST B1,liger,css,0.3129011820890907,8.0,0.2222222222222222,9
+spot_based,HER2ST B1,liger,ssim,0.03357437704789776,9.0,0.1111111111111111,9
+spot_based,HER2ST B1,arcimpute,pearson,0.2717098340946977,1.0,1.0,9
+spot_based,HER2ST B1,arcimpute,css,0.4850536659558993,1.0,1.0,9
+spot_based,HER2ST B1,arcimpute,ssim,0.1507132978278869,1.0,1.0,9
+spot_based,Mouse Olfactory Bulb Rep12,novosparc,pearson,0.22139078240790883,2.0,0.8888888888888888,9
+spot_based,Mouse Olfactory Bulb Rep12,novosparc,css,0.7873460052312728,5.0,0.5555555555555556,9
+spot_based,Mouse Olfactory Bulb Rep12,novosparc,ssim,0.1932560395156098,2.0,0.8888888888888888,9
+spot_based,Mouse Olfactory Bulb Rep12,tangram,pearson,0.1683583034777609,7.0,0.3333333333333333,9
+spot_based,Mouse Olfactory Bulb Rep12,tangram,css,0.8061773597557018,3.0,0.7777777777777778,9
+spot_based,Mouse Olfactory Bulb Rep12,tangram,ssim,0.15186921107889548,7.0,0.3333333333333333,9
+spot_based,Mouse Olfactory Bulb Rep12,spage,pearson,0.21919945093080645,3.0,0.7777777777777778,9
+spot_based,Mouse Olfactory Bulb Rep12,spage,css,0.7243876598306407,8.0,0.2222222222222222,9
+spot_based,Mouse Olfactory Bulb Rep12,spage,ssim,0.19386499244752925,1.0,1.0,9
+spot_based,Mouse Olfactory Bulb Rep12,spaim,pearson,0.12289268350014262,8.0,0.2222222222222222,9
+spot_based,Mouse Olfactory Bulb Rep12,spaim,css,0.811735238747189,2.0,0.8888888888888888,9
+spot_based,Mouse Olfactory Bulb Rep12,spaim,ssim,0.07114094088540905,9.0,0.1111111111111111,9
+spot_based,Mouse Olfactory Bulb Rep12,stimpute,pearson,0.171527007039703,6.0,0.4444444444444444,9
+spot_based,Mouse Olfactory Bulb Rep12,stimpute,css,0.8061725844963867,4.0,0.6666666666666666,9
+spot_based,Mouse Olfactory Bulb Rep12,stimpute,ssim,0.1589451019058519,5.0,0.5555555555555556,9
+spot_based,Mouse Olfactory Bulb Rep12,cytospace,pearson,0.09005498339911963,9.0,0.1111111111111111,9
+spot_based,Mouse Olfactory Bulb Rep12,cytospace,css,0.6099463685030075,9.0,0.1111111111111111,9
+spot_based,Mouse Olfactory Bulb Rep12,cytospace,ssim,0.07424873775679261,8.0,0.2222222222222222,9
+spot_based,Mouse Olfactory Bulb Rep12,seurat,pearson,0.17398119226928593,4.0,0.6666666666666666,9
+spot_based,Mouse Olfactory Bulb Rep12,seurat,css,0.7596762019055948,6.0,0.4444444444444444,9
+spot_based,Mouse Olfactory Bulb Rep12,seurat,ssim,0.16156758382658798,4.0,0.6666666666666666,9
+spot_based,Mouse Olfactory Bulb Rep12,liger,pearson,0.17315144417134484,5.0,0.5555555555555556,9
+spot_based,Mouse Olfactory Bulb Rep12,liger,css,0.7254972899611376,7.0,0.3333333333333333,9
+spot_based,Mouse Olfactory Bulb Rep12,liger,ssim,0.1562102034532038,6.0,0.4444444444444444,9
+spot_based,Mouse Olfactory Bulb Rep12,arcimpute,pearson,0.23395861342643132,1.0,1.0,9
+spot_based,Mouse Olfactory Bulb Rep12,arcimpute,css,0.8226768629284766,1.0,1.0,9
+spot_based,Mouse Olfactory Bulb Rep12,arcimpute,ssim,0.18067040020458192,3.0,0.7777777777777778,9
+spot_based,OSCC Sample 12,novosparc,pearson,0.1283571495104737,4.0,0.6666666666666666,9
+spot_based,OSCC Sample 12,novosparc,css,0.4662347747939395,5.0,0.5555555555555556,9
+spot_based,OSCC Sample 12,novosparc,ssim,0.1017741832689536,3.0,0.7777777777777778,9
+spot_based,OSCC Sample 12,tangram,pearson,0.13078619504998212,3.0,0.7777777777777778,9
+spot_based,OSCC Sample 12,tangram,css,0.509569621609659,3.0,0.7777777777777778,9
+spot_based,OSCC Sample 12,tangram,ssim,0.09929934863888723,4.0,0.6666666666666666,9
+spot_based,OSCC Sample 12,spage,pearson,0.13237303676659246,2.0,0.8888888888888888,9
+spot_based,OSCC Sample 12,spage,css,0.41822420655087233,6.0,0.4444444444444444,9
+spot_based,OSCC Sample 12,spage,ssim,0.11430956667525273,1.0,1.0,9
+spot_based,OSCC Sample 12,spaim,pearson,0.11817099814105828,5.0,0.5555555555555556,9
+spot_based,OSCC Sample 12,spaim,css,0.5178935490254818,2.0,0.8888888888888888,9
+spot_based,OSCC Sample 12,spaim,ssim,0.07425215106780828,6.0,0.4444444444444444,9
+spot_based,OSCC Sample 12,stimpute,pearson,0.10641362759498212,6.0,0.4444444444444444,9
+spot_based,OSCC Sample 12,stimpute,css,0.4751530403119814,4.0,0.6666666666666666,9
+spot_based,OSCC Sample 12,stimpute,ssim,0.08753007917290345,5.0,0.5555555555555556,9
+spot_based,OSCC Sample 12,cytospace,pearson,0.054214762435454394,9.0,0.1111111111111111,9
+spot_based,OSCC Sample 12,cytospace,css,0.32111486475228274,9.0,0.1111111111111111,9
+spot_based,OSCC Sample 12,cytospace,ssim,0.06674663811077948,8.0,0.2222222222222222,9
+spot_based,OSCC Sample 12,seurat,pearson,0.07568777073212901,7.0,0.3333333333333333,9
+spot_based,OSCC Sample 12,seurat,css,0.4157340284586676,7.0,0.3333333333333333,9
+spot_based,OSCC Sample 12,seurat,ssim,0.06977364303584366,7.0,0.3333333333333333,9
+spot_based,OSCC Sample 12,liger,pearson,0.06668829708325905,8.0,0.2222222222222222,9
+spot_based,OSCC Sample 12,liger,css,0.36568678109039926,8.0,0.2222222222222222,9
+spot_based,OSCC Sample 12,liger,ssim,0.06533474469261383,9.0,0.1111111111111111,9
+spot_based,OSCC Sample 12,arcimpute,pearson,0.1712785961914429,1.0,1.0,9
+spot_based,OSCC Sample 12,arcimpute,css,0.5256556255701776,1.0,1.0,9
+spot_based,OSCC Sample 12,arcimpute,ssim,0.11152906227793158,2.0,0.8888888888888888,9
+spot_based,Prostate Cancer FFPE,novosparc,pearson,0.2413647659270288,4.0,0.6666666666666666,9
+spot_based,Prostate Cancer FFPE,novosparc,css,0.5860318531005125,5.0,0.5555555555555556,9
+spot_based,Prostate Cancer FFPE,novosparc,ssim,0.1965804095800944,4.0,0.6666666666666666,9
+spot_based,Prostate Cancer FFPE,tangram,pearson,0.2354193429590122,5.0,0.5555555555555556,9
+spot_based,Prostate Cancer FFPE,tangram,css,0.6472614437609946,3.0,0.7777777777777778,9
+spot_based,Prostate Cancer FFPE,tangram,ssim,0.19518030953192522,5.0,0.5555555555555556,9
+spot_based,Prostate Cancer FFPE,spage,pearson,0.2563000899963486,2.0,0.8888888888888888,9
+spot_based,Prostate Cancer FFPE,spage,css,0.5581959244856258,6.0,0.4444444444444444,9
+spot_based,Prostate Cancer FFPE,spage,ssim,0.2283720865712972,2.0,0.8888888888888888,9
+spot_based,Prostate Cancer FFPE,spaim,pearson,0.25425267625426423,3.0,0.7777777777777778,9
+spot_based,Prostate Cancer FFPE,spaim,css,0.6589015544339166,2.0,0.8888888888888888,9
+spot_based,Prostate Cancer FFPE,spaim,ssim,0.16911706983620323,7.0,0.3333333333333333,9
+spot_based,Prostate Cancer FFPE,stimpute,pearson,0.20703022027427112,7.0,0.3333333333333333,9
+spot_based,Prostate Cancer FFPE,stimpute,css,0.6178141006196354,4.0,0.6666666666666666,9
+spot_based,Prostate Cancer FFPE,stimpute,ssim,0.18527704298093628,6.0,0.4444444444444444,9
+spot_based,Prostate Cancer FFPE,cytospace,pearson,0.12331257384606598,9.0,0.1111111111111111,9
+spot_based,Prostate Cancer FFPE,cytospace,css,0.36537653046674645,9.0,0.1111111111111111,9
+spot_based,Prostate Cancer FFPE,cytospace,ssim,0.09078990478274115,9.0,0.1111111111111111,9
+spot_based,Prostate Cancer FFPE,seurat,pearson,0.22775648981628668,6.0,0.4444444444444444,9
+spot_based,Prostate Cancer FFPE,seurat,css,0.5553262489922736,7.0,0.3333333333333333,9
+spot_based,Prostate Cancer FFPE,seurat,ssim,0.19922577875814657,3.0,0.7777777777777778,9
+spot_based,Prostate Cancer FFPE,liger,pearson,0.18824963072206852,8.0,0.2222222222222222,9
+spot_based,Prostate Cancer FFPE,liger,css,0.49326953765044895,8.0,0.2222222222222222,9
+spot_based,Prostate Cancer FFPE,liger,ssim,0.16310144253765366,8.0,0.2222222222222222,9
+spot_based,Prostate Cancer FFPE,arcimpute,pearson,0.3073457670662329,1.0,1.0,9
+spot_based,Prostate Cancer FFPE,arcimpute,css,0.6713848918607149,1.0,1.0,9
+spot_based,Prostate Cancer FFPE,arcimpute,ssim,0.23555135092108592,1.0,1.0,9
+spot_based,Allen MERFISH Pseudospot,novosparc,pearson,0.35195072509958325,6.0,0.4444444444444444,9
+spot_based,Allen MERFISH Pseudospot,novosparc,css,0.551371123679252,6.0,0.4444444444444444,9
+spot_based,Allen MERFISH Pseudospot,novosparc,ssim,0.25529359039753896,6.0,0.4444444444444444,9
+spot_based,Allen MERFISH Pseudospot,tangram,pearson,0.44024668610016787,2.0,0.8888888888888888,9
+spot_based,Allen MERFISH Pseudospot,tangram,css,0.6534948989252249,2.0,0.8888888888888888,9
+spot_based,Allen MERFISH Pseudospot,tangram,ssim,0.3414669794108098,2.0,0.8888888888888888,9
+spot_based,Allen MERFISH Pseudospot,spage,pearson,0.36472679743205305,3.0,0.7777777777777778,9
+spot_based,Allen MERFISH Pseudospot,spage,css,0.5344842358616492,7.0,0.3333333333333333,9
+spot_based,Allen MERFISH Pseudospot,spage,ssim,0.2792229553242214,5.0,0.5555555555555556,9
+spot_based,Allen MERFISH Pseudospot,spaim,pearson,0.30575331937919825,8.0,0.2222222222222222,9
+spot_based,Allen MERFISH Pseudospot,spaim,css,0.6016400866210461,4.0,0.6666666666666666,9
+spot_based,Allen MERFISH Pseudospot,spaim,ssim,0.2054259778233245,8.0,0.2222222222222222,9
+spot_based,Allen MERFISH Pseudospot,stimpute,pearson,0.3564775125174092,5.0,0.5555555555555556,9
+spot_based,Allen MERFISH Pseudospot,stimpute,css,0.6086031682844176,3.0,0.7777777777777778,9
+spot_based,Allen MERFISH Pseudospot,stimpute,ssim,0.29063407837907657,4.0,0.6666666666666666,9
+spot_based,Allen MERFISH Pseudospot,cytospace,pearson,0.25408124435111973,9.0,0.1111111111111111,9
+spot_based,Allen MERFISH Pseudospot,cytospace,css,0.44748532330131713,9.0,0.1111111111111111,9
+spot_based,Allen MERFISH Pseudospot,cytospace,ssim,0.17157936071095284,9.0,0.1111111111111111,9
+spot_based,Allen MERFISH Pseudospot,seurat,pearson,0.3577996018542057,4.0,0.6666666666666666,9
+spot_based,Allen MERFISH Pseudospot,seurat,css,0.5664365736852144,5.0,0.5555555555555556,9
+spot_based,Allen MERFISH Pseudospot,seurat,ssim,0.29918478146120925,3.0,0.7777777777777778,9
+spot_based,Allen MERFISH Pseudospot,liger,pearson,0.32972106910459786,7.0,0.3333333333333333,9
+spot_based,Allen MERFISH Pseudospot,liger,css,0.5060538085953643,8.0,0.2222222222222222,9
+spot_based,Allen MERFISH Pseudospot,liger,ssim,0.24742845379631034,7.0,0.3333333333333333,9
+spot_based,Allen MERFISH Pseudospot,arcimpute,pearson,0.4878146450555468,1.0,1.0,9
+spot_based,Allen MERFISH Pseudospot,arcimpute,css,0.6767574079831441,1.0,1.0,9
+spot_based,Allen MERFISH Pseudospot,arcimpute,ssim,0.3846383161749691,1.0,1.0,9
+spot_based,osmFISH Pseudospot,novosparc,pearson,0.2895985627976699,2.0,0.8888888888888888,9
+spot_based,osmFISH Pseudospot,novosparc,css,0.8738570682013075,5.0,0.5555555555555556,9
+spot_based,osmFISH Pseudospot,novosparc,ssim,0.21479811298450363,3.0,0.7777777777777778,9
+spot_based,osmFISH Pseudospot,tangram,pearson,0.267058226976096,4.0,0.6666666666666666,9
+spot_based,osmFISH Pseudospot,tangram,css,0.926696253488014,3.0,0.7777777777777778,9
+spot_based,osmFISH Pseudospot,tangram,ssim,0.23369206908351503,2.0,0.8888888888888888,9
+spot_based,osmFISH Pseudospot,spage,pearson,0.2887265275593984,3.0,0.7777777777777778,9
+spot_based,osmFISH Pseudospot,spage,css,0.6483915733449565,6.0,0.4444444444444444,9
+spot_based,osmFISH Pseudospot,spage,ssim,0.13424200877024212,6.0,0.4444444444444444,9
+spot_based,osmFISH Pseudospot,spaim,pearson,0.1729811169922941,7.0,0.3333333333333333,9
+spot_based,osmFISH Pseudospot,spaim,css,0.9522051287419868,1.0,1.0,9
+spot_based,osmFISH Pseudospot,spaim,ssim,0.14474480549776644,5.0,0.5555555555555556,9
+spot_based,osmFISH Pseudospot,stimpute,pearson,0.23205180719070354,5.0,0.5555555555555556,9
+spot_based,osmFISH Pseudospot,stimpute,css,0.9500493282078786,2.0,0.8888888888888888,9
+spot_based,osmFISH Pseudospot,stimpute,ssim,0.21428023395679047,4.0,0.6666666666666666,9
+spot_based,osmFISH Pseudospot,cytospace,pearson,0.09736081092104466,9.0,0.1111111111111111,9
+spot_based,osmFISH Pseudospot,cytospace,css,0.39198962363326567,9.0,0.1111111111111111,9
+spot_based,osmFISH Pseudospot,cytospace,ssim,0.03090645863638645,9.0,0.1111111111111111,9
+spot_based,osmFISH Pseudospot,seurat,pearson,0.1591655480111174,8.0,0.2222222222222222,9
+spot_based,osmFISH Pseudospot,seurat,css,0.6107904881222826,8.0,0.2222222222222222,9
+spot_based,osmFISH Pseudospot,seurat,ssim,0.07925056189834617,8.0,0.2222222222222222,9
+spot_based,osmFISH Pseudospot,liger,pearson,0.2233990676831008,6.0,0.4444444444444444,9
+spot_based,osmFISH Pseudospot,liger,css,0.6269345492465396,7.0,0.3333333333333333,9
+spot_based,osmFISH Pseudospot,liger,ssim,0.10736635452278222,7.0,0.3333333333333333,9
+spot_based,osmFISH Pseudospot,arcimpute,pearson,0.2923090849276779,1.0,1.0,9
+spot_based,osmFISH Pseudospot,arcimpute,css,0.9052656229633973,4.0,0.6666666666666666,9
+spot_based,osmFISH Pseudospot,arcimpute,ssim,0.2534446131328133,1.0,1.0,9
+spot_based,SpaceTx ExSeq Pseudospot,novosparc,pearson,0.4331676398009072,5.0,0.5555555555555556,9
+spot_based,SpaceTx ExSeq Pseudospot,novosparc,css,0.8089065306401446,5.0,0.5555555555555556,9
+spot_based,SpaceTx ExSeq Pseudospot,novosparc,ssim,0.35542736230078403,5.0,0.5555555555555556,9
+spot_based,SpaceTx ExSeq Pseudospot,tangram,pearson,0.46974563356671856,2.0,0.8888888888888888,9
+spot_based,SpaceTx ExSeq Pseudospot,tangram,css,0.8530766978150323,3.0,0.7777777777777778,9
+spot_based,SpaceTx ExSeq Pseudospot,tangram,ssim,0.425028613097744,2.0,0.8888888888888888,9
+spot_based,SpaceTx ExSeq Pseudospot,spage,pearson,0.4427005485519895,3.0,0.7777777777777778,9
+spot_based,SpaceTx ExSeq Pseudospot,spage,css,0.7308434902557305,6.0,0.4444444444444444,9
+spot_based,SpaceTx ExSeq Pseudospot,spage,ssim,0.31973949343054775,7.0,0.3333333333333333,9
+spot_based,SpaceTx ExSeq Pseudospot,spaim,pearson,0.4350818911239377,4.0,0.6666666666666666,9
+spot_based,SpaceTx ExSeq Pseudospot,spaim,css,0.8733457057248979,2.0,0.8888888888888888,9
+spot_based,SpaceTx ExSeq Pseudospot,spaim,ssim,0.36680209718733314,3.0,0.7777777777777778,9
+spot_based,SpaceTx ExSeq Pseudospot,stimpute,pearson,0.39138513171514266,7.0,0.3333333333333333,9
+spot_based,SpaceTx ExSeq Pseudospot,stimpute,css,0.8488966051660234,4.0,0.6666666666666666,9
+spot_based,SpaceTx ExSeq Pseudospot,stimpute,ssim,0.3635126457370249,4.0,0.6666666666666666,9
+spot_based,SpaceTx ExSeq Pseudospot,cytospace,pearson,0.33489661659822484,8.0,0.2222222222222222,9
+spot_based,SpaceTx ExSeq Pseudospot,cytospace,css,0.6788434334553521,8.0,0.2222222222222222,9
+spot_based,SpaceTx ExSeq Pseudospot,cytospace,ssim,0.2247959174104935,8.0,0.2222222222222222,9
+spot_based,SpaceTx ExSeq Pseudospot,seurat,pearson,0.41840823062986005,6.0,0.4444444444444444,9
+spot_based,SpaceTx ExSeq Pseudospot,seurat,css,0.7296362963176968,7.0,0.3333333333333333,9
+spot_based,SpaceTx ExSeq Pseudospot,seurat,ssim,0.32832180278490614,6.0,0.4444444444444444,9
+spot_based,SpaceTx ExSeq Pseudospot,liger,pearson,0.30152482453469837,9.0,0.1111111111111111,9
+spot_based,SpaceTx ExSeq Pseudospot,liger,css,0.6513993316995246,9.0,0.1111111111111111,9
+spot_based,SpaceTx ExSeq Pseudospot,liger,ssim,0.21837102871878805,9.0,0.1111111111111111,9
+spot_based,SpaceTx ExSeq Pseudospot,arcimpute,pearson,0.5347654141939225,1.0,1.0,9
+spot_based,SpaceTx ExSeq Pseudospot,arcimpute,css,0.8823125149522509,1.0,1.0,9
+spot_based,SpaceTx ExSeq Pseudospot,arcimpute,ssim,0.47710183821618557,1.0,1.0,9
+cell_resolved,Allen MERFISH,novosparc,pearson,0.3291578721025241,8.0,0.2222222222222222,9
+cell_resolved,Allen MERFISH,novosparc,css,0.4194354862848303,8.0,0.2222222222222222,9
+cell_resolved,Allen MERFISH,novosparc,ssim,0.22487613034012172,8.0,0.2222222222222222,9
+cell_resolved,Allen MERFISH,tangram,pearson,0.3899669047647149,5.0,0.5555555555555556,9
+cell_resolved,Allen MERFISH,tangram,css,0.4674991638585925,5.0,0.5555555555555556,9
+cell_resolved,Allen MERFISH,tangram,ssim,0.2698626776474218,7.0,0.3333333333333333,9
+cell_resolved,Allen MERFISH,spage,pearson,0.4159602776937884,4.0,0.6666666666666666,9
+cell_resolved,Allen MERFISH,spage,css,0.48979055184250075,4.0,0.6666666666666666,9
+cell_resolved,Allen MERFISH,spage,ssim,0.35099792265721286,1.0,1.0,9
+cell_resolved,Allen MERFISH,spaim,pearson,0.33868533854915805,7.0,0.3333333333333333,9
+cell_resolved,Allen MERFISH,spaim,css,0.43246370648344357,7.0,0.3333333333333333,9
+cell_resolved,Allen MERFISH,spaim,ssim,0.2085148520100241,9.0,0.1111111111111111,9
+cell_resolved,Allen MERFISH,stimpute,pearson,0.42475776908502716,2.0,0.8888888888888888,9
+cell_resolved,Allen MERFISH,stimpute,css,0.4991205492988355,2.0,0.8888888888888888,9
+cell_resolved,Allen MERFISH,stimpute,ssim,0.33920568650181354,3.0,0.7777777777777778,9
+cell_resolved,Allen MERFISH,cytospace,pearson,0.3237678000266576,9.0,0.1111111111111111,9
+cell_resolved,Allen MERFISH,cytospace,css,0.40570243013817947,9.0,0.1111111111111111,9
+cell_resolved,Allen MERFISH,cytospace,ssim,0.2861033336526312,6.0,0.4444444444444444,9
+cell_resolved,Allen MERFISH,seurat,pearson,0.41838554422422175,3.0,0.7777777777777778,9
+cell_resolved,Allen MERFISH,seurat,css,0.4935560363604706,3.0,0.7777777777777778,9
+cell_resolved,Allen MERFISH,seurat,ssim,0.3485118233001657,2.0,0.8888888888888888,9
+cell_resolved,Allen MERFISH,liger,pearson,0.3858112213722734,6.0,0.4444444444444444,9
+cell_resolved,Allen MERFISH,liger,css,0.46487615490332246,6.0,0.4444444444444444,9
+cell_resolved,Allen MERFISH,liger,ssim,0.32560223835520447,4.0,0.6666666666666666,9
+cell_resolved,Allen MERFISH,arcimpute,pearson,0.44095903211827486,1.0,1.0,9
+cell_resolved,Allen MERFISH,arcimpute,css,0.5054170389225086,1.0,1.0,9
+cell_resolved,Allen MERFISH,arcimpute,ssim,0.3070781080083301,5.0,0.5555555555555556,9
+cell_resolved,osmFISH,novosparc,pearson,0.20989865698029395,3.0,0.7777777777777778,9
+cell_resolved,osmFISH,novosparc,css,0.7200417904841692,4.0,0.6666666666666666,9
+cell_resolved,osmFISH,novosparc,ssim,0.10595346026536552,6.0,0.4444444444444444,9
+cell_resolved,osmFISH,tangram,pearson,0.16559341318221907,8.0,0.2222222222222222,9
+cell_resolved,osmFISH,tangram,css,0.6689855942585464,5.0,0.5555555555555556,9
+cell_resolved,osmFISH,tangram,ssim,0.1061951204261608,5.0,0.5555555555555556,9
+cell_resolved,osmFISH,spage,pearson,0.21425533656668147,2.0,0.8888888888888888,9
+cell_resolved,osmFISH,spage,css,0.6209494518484467,6.0,0.4444444444444444,9
+cell_resolved,osmFISH,spage,ssim,0.12287557561425083,4.0,0.6666666666666666,9
+cell_resolved,osmFISH,spaim,pearson,0.19950808657606314,4.0,0.6666666666666666,9
+cell_resolved,osmFISH,spaim,css,0.8144660294055939,1.0,1.0,9
+cell_resolved,osmFISH,spaim,ssim,0.14003977262076328,2.0,0.8888888888888888,9
+cell_resolved,osmFISH,stimpute,pearson,0.1738083192932588,7.0,0.3333333333333333,9
+cell_resolved,osmFISH,stimpute,css,0.7942258090788474,2.0,0.8888888888888888,9
+cell_resolved,osmFISH,stimpute,ssim,0.12805758559696787,3.0,0.7777777777777778,9
+cell_resolved,osmFISH,cytospace,pearson,0.09595462869579241,9.0,0.1111111111111111,9
+cell_resolved,osmFISH,cytospace,css,0.33914336475862705,9.0,0.1111111111111111,9
+cell_resolved,osmFISH,cytospace,ssim,0.03260307737742138,9.0,0.1111111111111111,9
+cell_resolved,osmFISH,seurat,pearson,0.18101977338457012,5.0,0.5555555555555556,9
+cell_resolved,osmFISH,seurat,css,0.5397731323049187,8.0,0.2222222222222222,9
+cell_resolved,osmFISH,seurat,ssim,0.09043774337659898,8.0,0.2222222222222222,9
+cell_resolved,osmFISH,liger,pearson,0.17510489283717987,6.0,0.4444444444444444,9
+cell_resolved,osmFISH,liger,css,0.5678421527410774,7.0,0.3333333333333333,9
+cell_resolved,osmFISH,liger,ssim,0.09740949829098271,7.0,0.3333333333333333,9
+cell_resolved,osmFISH,arcimpute,pearson,0.2558239183880247,1.0,1.0,9
+cell_resolved,osmFISH,arcimpute,css,0.7778320542834692,3.0,0.7777777777777778,9
+cell_resolved,osmFISH,arcimpute,ssim,0.19457164739683627,1.0,1.0,9
+cell_resolved,STARmap Visual Cortex,novosparc,pearson,0.15776331017263717,5.0,0.5555555555555556,9
+cell_resolved,STARmap Visual Cortex,novosparc,css,0.4588339792674755,5.0,0.5555555555555556,9
+cell_resolved,STARmap Visual Cortex,novosparc,ssim,0.11520392226614737,6.0,0.4444444444444444,9
+cell_resolved,STARmap Visual Cortex,tangram,pearson,0.1908762570174027,2.0,0.8888888888888888,9
+cell_resolved,STARmap Visual Cortex,tangram,css,0.50938030509154,2.0,0.8888888888888888,9
+cell_resolved,STARmap Visual Cortex,tangram,ssim,0.1288768915028001,4.0,0.6666666666666666,9
+cell_resolved,STARmap Visual Cortex,spage,pearson,0.16389840651131532,4.0,0.6666666666666666,9
+cell_resolved,STARmap Visual Cortex,spage,css,0.42150937311848,7.0,0.3333333333333333,9
+cell_resolved,STARmap Visual Cortex,spage,ssim,0.13775993271948392,2.0,0.8888888888888888,9
+cell_resolved,STARmap Visual Cortex,spaim,pearson,0.1378659202673242,8.0,0.2222222222222222,9
+cell_resolved,STARmap Visual Cortex,spaim,css,0.5073532134294509,3.0,0.7777777777777778,9
+cell_resolved,STARmap Visual Cortex,spaim,ssim,0.06718959387702246,9.0,0.1111111111111111,9
+cell_resolved,STARmap Visual Cortex,stimpute,pearson,0.15098514654219938,6.0,0.4444444444444444,9
+cell_resolved,STARmap Visual Cortex,stimpute,css,0.5039002564208801,4.0,0.6666666666666666,9
+cell_resolved,STARmap Visual Cortex,stimpute,ssim,0.10692780548574149,7.0,0.3333333333333333,9
+cell_resolved,STARmap Visual Cortex,cytospace,pearson,0.10898311328241338,9.0,0.1111111111111111,9
+cell_resolved,STARmap Visual Cortex,cytospace,css,0.35950424689936117,9.0,0.1111111111111111,9
+cell_resolved,STARmap Visual Cortex,cytospace,ssim,0.09367468012669186,8.0,0.2222222222222222,9
+cell_resolved,STARmap Visual Cortex,seurat,pearson,0.1664524718628164,3.0,0.7777777777777778,9
+cell_resolved,STARmap Visual Cortex,seurat,css,0.4517195114154084,6.0,0.4444444444444444,9
+cell_resolved,STARmap Visual Cortex,seurat,ssim,0.13814976420460898,1.0,1.0,9
+cell_resolved,STARmap Visual Cortex,liger,pearson,0.14605438652476008,7.0,0.3333333333333333,9
+cell_resolved,STARmap Visual Cortex,liger,css,0.41630752323071163,8.0,0.2222222222222222,9
+cell_resolved,STARmap Visual Cortex,liger,ssim,0.11913913541228977,5.0,0.5555555555555556,9
+cell_resolved,STARmap Visual Cortex,arcimpute,pearson,0.21100987407097296,1.0,1.0,9
+cell_resolved,STARmap Visual Cortex,arcimpute,css,0.5215380507310231,1.0,1.0,9
+cell_resolved,STARmap Visual Cortex,arcimpute,ssim,0.13360408539844987,3.0,0.7777777777777778,9
+cell_resolved,seqFISH+ Cortex/SVZ,novosparc,pearson,0.15776649910887072,8.0,0.2222222222222222,9
+cell_resolved,seqFISH+ Cortex/SVZ,novosparc,css,0.42402242443322985,7.0,0.3333333333333333,9
+cell_resolved,seqFISH+ Cortex/SVZ,novosparc,ssim,0.10155445650725044,9.0,0.1111111111111111,9
+cell_resolved,seqFISH+ Cortex/SVZ,tangram,pearson,0.28817200895359135,2.0,0.8888888888888888,9
+cell_resolved,seqFISH+ Cortex/SVZ,tangram,css,0.5270270978173608,2.0,0.8888888888888888,9
+cell_resolved,seqFISH+ Cortex/SVZ,tangram,ssim,0.17356069002702945,4.0,0.6666666666666666,9
+cell_resolved,seqFISH+ Cortex/SVZ,spage,pearson,0.25094400383599,4.0,0.6666666666666666,9
+cell_resolved,seqFISH+ Cortex/SVZ,spage,css,0.45393565226899174,5.0,0.5555555555555556,9
+cell_resolved,seqFISH+ Cortex/SVZ,spage,ssim,0.1956981841366147,1.0,1.0,9
+cell_resolved,seqFISH+ Cortex/SVZ,spaim,pearson,0.26127921800834003,3.0,0.7777777777777778,9
+cell_resolved,seqFISH+ Cortex/SVZ,spaim,css,0.519157760685762,3.0,0.7777777777777778,9
+cell_resolved,seqFISH+ Cortex/SVZ,spaim,ssim,0.10779676756805547,8.0,0.2222222222222222,9
+cell_resolved,seqFISH+ Cortex/SVZ,stimpute,pearson,0.23618618498721775,5.0,0.5555555555555556,9
+cell_resolved,seqFISH+ Cortex/SVZ,stimpute,css,0.5104128830015372,4.0,0.6666666666666666,9
+cell_resolved,seqFISH+ Cortex/SVZ,stimpute,ssim,0.13952280589784483,7.0,0.3333333333333333,9
+cell_resolved,seqFISH+ Cortex/SVZ,cytospace,pearson,0.15516522075253789,9.0,0.1111111111111111,9
+cell_resolved,seqFISH+ Cortex/SVZ,cytospace,css,0.37025579709637263,9.0,0.1111111111111111,9
+cell_resolved,seqFISH+ Cortex/SVZ,cytospace,ssim,0.1411004297801514,6.0,0.4444444444444444,9
+cell_resolved,seqFISH+ Cortex/SVZ,seurat,pearson,0.22061429727690912,6.0,0.4444444444444444,9
+cell_resolved,seqFISH+ Cortex/SVZ,seurat,css,0.45317277947906265,6.0,0.4444444444444444,9
+cell_resolved,seqFISH+ Cortex/SVZ,seurat,ssim,0.18167899064743695,3.0,0.7777777777777778,9
+cell_resolved,seqFISH+ Cortex/SVZ,liger,pearson,0.18389222068249095,7.0,0.3333333333333333,9
+cell_resolved,seqFISH+ Cortex/SVZ,liger,css,0.42049045898652426,8.0,0.2222222222222222,9
+cell_resolved,seqFISH+ Cortex/SVZ,liger,ssim,0.1431544048660851,5.0,0.5555555555555556,9
+cell_resolved,seqFISH+ Cortex/SVZ,arcimpute,pearson,0.3150777629924619,1.0,1.0,9
+cell_resolved,seqFISH+ Cortex/SVZ,arcimpute,css,0.5414670105047709,1.0,1.0,9
+cell_resolved,seqFISH+ Cortex/SVZ,arcimpute,ssim,0.18389629282815878,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ISS,novosparc,pearson,0.08167789550760526,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ISS,novosparc,css,0.24827871805388763,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ISS,novosparc,ssim,0.05013550820603407,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ISS,tangram,pearson,0.10402229628140934,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ISS,tangram,css,0.262805942956411,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ISS,tangram,ssim,0.059402622221179105,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ISS,spage,pearson,0.06511922026405481,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ISS,spage,css,0.22549951260130727,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ISS,spage,ssim,0.04402530082819901,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ISS,spaim,pearson,0.06172246063420543,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ISS,spaim,css,0.2494975342630495,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ISS,spaim,ssim,0.03508383279165914,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ISS,stimpute,pearson,0.09450385283324975,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx ISS,stimpute,css,0.25379067474936434,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ISS,stimpute,ssim,0.062132059671934706,1.0,1.0,9
+cell_resolved,SpaceTx ISS,cytospace,pearson,0.07331940355044433,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ISS,cytospace,css,0.2246345532823456,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ISS,cytospace,ssim,0.060021183776761,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ISS,seurat,pearson,0.08984043103494978,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ISS,seurat,css,0.2607722387818427,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx ISS,seurat,ssim,0.050262571277242596,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ISS,liger,pearson,0.05329587585546825,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ISS,liger,css,0.21689552159299055,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ISS,liger,ssim,0.03755422436620966,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ISS,arcimpute,pearson,0.12119146308695813,1.0,1.0,9
+cell_resolved,SpaceTx ISS,arcimpute,css,0.27596420322020515,1.0,1.0,9
+cell_resolved,SpaceTx ISS,arcimpute,ssim,0.059663246227271795,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx BARISTASeq,novosparc,pearson,0.12306201209093359,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx BARISTASeq,novosparc,css,0.37524720194474387,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx BARISTASeq,novosparc,ssim,0.09623228356181135,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx BARISTASeq,tangram,pearson,0.19977061274851562,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx BARISTASeq,tangram,css,0.433720064073752,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx BARISTASeq,tangram,ssim,0.14305849930908726,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx BARISTASeq,spage,pearson,0.12634415137588723,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx BARISTASeq,spage,css,0.35261695976614166,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx BARISTASeq,spage,ssim,0.10647001449251547,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx BARISTASeq,spaim,pearson,0.16208954566439665,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx BARISTASeq,spaim,css,0.43371530134524955,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx BARISTASeq,spaim,ssim,0.1019047107042034,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx BARISTASeq,stimpute,pearson,0.15038209455293478,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx BARISTASeq,stimpute,css,0.41820984704840203,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx BARISTASeq,stimpute,ssim,0.11295544801912279,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx BARISTASeq,cytospace,pearson,0.06276955990695138,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx BARISTASeq,cytospace,css,0.2780762424850932,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx BARISTASeq,cytospace,ssim,0.05797753290225721,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx BARISTASeq,seurat,pearson,0.14896806662511014,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx BARISTASeq,seurat,css,0.41073269207210905,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx BARISTASeq,seurat,ssim,0.11168346660034505,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx BARISTASeq,liger,pearson,0.11509691602245628,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx BARISTASeq,liger,css,0.3452647953588319,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx BARISTASeq,liger,ssim,0.09951395662746539,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx BARISTASeq,arcimpute,pearson,0.2333263152052222,1.0,1.0,9
+cell_resolved,SpaceTx BARISTASeq,arcimpute,css,0.45915514019955145,1.0,1.0,9
+cell_resolved,SpaceTx BARISTASeq,arcimpute,ssim,0.153301497339271,1.0,1.0,9
+cell_resolved,SpaceTx ExSeq,novosparc,pearson,0.3215716693962226,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ExSeq,novosparc,css,0.6409104601312953,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ExSeq,novosparc,ssim,0.2509948346536749,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ExSeq,tangram,pearson,0.3768557013284047,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx ExSeq,tangram,css,0.6724386886649188,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx ExSeq,tangram,ssim,0.29920123601775794,3.0,0.7777777777777778,9
+cell_resolved,SpaceTx ExSeq,spage,pearson,0.3344890774865013,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ExSeq,spage,css,0.6235228989805494,7.0,0.3333333333333333,9
+cell_resolved,SpaceTx ExSeq,spage,ssim,0.2756905918940902,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ExSeq,spaim,pearson,0.32809655847025787,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ExSeq,spaim,css,0.6769177477274623,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ExSeq,spaim,ssim,0.2537933306857234,6.0,0.4444444444444444,9
+cell_resolved,SpaceTx ExSeq,stimpute,pearson,0.33724884042984116,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ExSeq,stimpute,css,0.6650036673695942,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ExSeq,stimpute,ssim,0.29101752881024234,4.0,0.6666666666666666,9
+cell_resolved,SpaceTx ExSeq,cytospace,pearson,0.27006513501406837,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ExSeq,cytospace,css,0.5574961957299447,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ExSeq,cytospace,ssim,0.1826818377513741,9.0,0.1111111111111111,9
+cell_resolved,SpaceTx ExSeq,seurat,pearson,0.3878057632331578,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ExSeq,seurat,css,0.6504357898138279,5.0,0.5555555555555556,9
+cell_resolved,SpaceTx ExSeq,seurat,ssim,0.3302771956089548,2.0,0.8888888888888888,9
+cell_resolved,SpaceTx ExSeq,liger,pearson,0.2702662995574426,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ExSeq,liger,css,0.5787530436757065,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ExSeq,liger,ssim,0.22745666444479,8.0,0.2222222222222222,9
+cell_resolved,SpaceTx ExSeq,arcimpute,pearson,0.4378915416853634,1.0,1.0,9
+cell_resolved,SpaceTx ExSeq,arcimpute,css,0.7066430335953122,1.0,1.0,9
+cell_resolved,SpaceTx ExSeq,arcimpute,ssim,0.34165626436117147,1.0,1.0,9
