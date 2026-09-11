@@ -76,7 +76,7 @@
 | `num_epochs` | `500` | Non-negative training epochs. |
 | `learning_rate` | `0.1` | Positive learning rate. |
 | `lambda_g1` | `1.0` | Non-zero gene-similarity weight. |
-| `lambda_d` | `0.0` | Non-negative density weight. |
+| `lambda_d` | `1.0` | Non-negative density weight. |
 | `lambda_g2` | `0.0` | Non-negative spot-similarity weight. |
 | `lambda_r` | `0.0` | Non-negative entropy weight. |
 | `lambda_l1` | `0.0` | Non-negative residual L1 weight. |

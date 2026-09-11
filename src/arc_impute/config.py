@@ -126,7 +126,7 @@ class OptimisationConfig:
     num_epochs: int = 500
     learning_rate: float = 0.1
     lambda_g1: float = 1.0
-    lambda_d: float = 0.0
+    lambda_d: float = 1.0
     lambda_g2: float = 0.0
     lambda_r: float = 0.0
     lambda_l1: float = 0.0
