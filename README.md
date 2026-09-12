@@ -41,11 +41,26 @@ Outputs are available as:
 
 ## Example and tests
 
+The example uses two small synthetic test datasets in `examples/`:
+
+- [Reference](examples/arc_impute_test_reference.h5ad): four cells labelled
+  `A` or `B` in `.obs["cell_type"]`, with genes `g1`, `g2`, `g3` and `reference_only`.
+- [Spatial](examples/arc_impute_test_spatial.h5ad): three spots labelled
+  `R1` or `R2` in `.obs["region"]`, with the three shared genes `g1`, `g2` and `g3`.
+
+These hand-written expression values are used directly without normalisation.
+This example demonstrates the workflow only; it is not a biological benchmark.
+Run it from the repository root after cloning or downloading the repository:
+
 ```bash
 python -m pip install -e ".[test]"
 python examples/minimal_example.py
 python -m pytest -q
 ```
+
+The example fits the mapping and prints a 3-by-1 imputation table for
+`reference_only` and a 3-by-2 cell-type proportion table, both indexed by spot.
+The bundled inputs can be regenerated with `python examples/generate_test_data.py`.
 
 ## Modules
 
